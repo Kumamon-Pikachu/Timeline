@@ -1,10 +1,10 @@
 Timeline
 ===============
 
-- 24/02/1955 Born
-- ~1968 Summer job
-- 03/1976 Built a computer
-- 01/04/1976 Started a [company](http://en.wikipedia.org/wiki/Apple_Inc. "Apple Inc.")
-- 04/1976-2011 Whole bunch of interesting events
-- 04/12/2019 距离春节还有52天
-- 01/01/2020 科幻元年到来，小康社会今天到来
+- 2020 event that happen in that year
+- 01/2020 event that happen in that month/year
+- 01/01/2020 event that happen exactly in that day/month/year
+- 2012-2013 event that happen within the two dates
+- 1/2013-02/03/2017 event that happen within the two dates
+- ~2019 event that happen around the time in that year
+- 2017-~ event that happen from that year and beyond (now).
